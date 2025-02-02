@@ -16,6 +16,10 @@ Total Units Sold: 214.5K
 
 Average Order Value: $4.7
 
+📌 **Data-Driven Recommendations for Business Growth**
+
+![Image](https://github.com/user-attachments/assets/e804052a-d025-44d9-a04d-8122f11ec49e)
+
 📊 **Visualizations**
 
 **Sales by Hour** – Line chart showing peak sales hours.
